@@ -10,7 +10,7 @@
 </a>
 
 - 👋 Hi, I’m @toyosy012
-- 👀 I’m interested in IaC(Tekton CI, Argo CD, etc)
+- 👀 I’m interested in knative IaC(Tekton CI, Argo CD, etc)
 - 🌱 I’m currently learning GKE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
